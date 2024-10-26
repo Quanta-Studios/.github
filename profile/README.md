@@ -1,7 +1,6 @@
 # Quanta Studios
 
 Do a naming scheme for every project in lower case, hyphens, like this:
-
 <genre>-<codename>
 
 For example, rts-redrock
